@@ -1,0 +1,13 @@
+Variable d : Valid variable declaration
+Function call at Line 7
+User Defined function is syntactically correct.
+Variable a : Valid variable declaration
+Function call at Line 17
+Function call at Line 18
+Syntactically correct conditional block ended at Line 21
+Syntactically correct iterative block ended at Line 24
+Function call at Line 26
+Main function is syntactically correct.
+
+No Syntax Error
+0 Semantic Error(s) present

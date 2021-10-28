@@ -1,0 +1,38 @@
+
+ Integer declared in line 1.
+
+ Integer declared in line 2.
+
+Syntax of declaration statement is correct
+Syntax of assignment statement is correct
+Syntax of assignment statement is correct
+Syntax of assignment statement is correct
+Syntax of conditional statement is correct
+ Integer declared in line 8.
+
+Parsing failed in line 8 : Multiple definitions of the identifier a
+
+Syntax of declaration statement is correct
+ Integer declared in line 9.
+
+Syntax of declaration statement is correct
+ Float declared in line 10
+
+Syntax of declaration statement is correct
+ Integer declared in line 11.
+
+Syntax of declaration statement is correct
+Syntax of assignment statement is correct
+Syntax of iterative statement is correct
+Syntax of function call is correct
+Syntax of return statement is correct
+Syntax of main function is correct
+ Integer declared in line 20.
+
+ Integer declared in line 20.
+
+ Integer declared in line 20.
+
+Syntax of return statement is correct
+Syntax of user defined function is correct
+Parsed successfully.
